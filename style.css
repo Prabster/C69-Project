@@ -1,0 +1,21 @@
+body {
+    background-color:burlywood;
+}
+.vid1 {
+    Width:90%;
+    height:750px;
+    padding:10px;
+}
+img {
+    width:75%;
+    padding:0%;
+}
+h2 {
+    font-size:40px;
+}
+h4 {
+    font-size:20px;
+}
+.Campus {
+    border:5px solid blue;
+}
